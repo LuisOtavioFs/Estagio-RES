@@ -1,0 +1,9 @@
+A) é valor1 + 2 RESULTADO = 9
+
+B) é valor1 * 2 RESULTADO = 128
+
+C - D) é valor1 ^2 valor2 ^2  C) RESULTADO = 49 - D) RESULTADO = 100
+
+E) é Valoranterior + Valoratual = ProximoValor RESULTADO = 13
+
+F) Valores com a letra D RESULTADO = 200
