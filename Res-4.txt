@@ -1,0 +1,1 @@
+4) Simplesmente deixo ligada uma das lâmpadas por um tempo, desligo, vou até a sala e verifico se a lâmpada está quente ou fria. Se estiver fria, o interruptor que deixei ligado não corresponde àquela sala. Se estiver quente, corresponde àquela sala.
